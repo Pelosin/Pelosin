@@ -8,9 +8,8 @@
 ##
 
 Jovem estudante no 3º Ano de um curso profissional.
-Progamador Mobile/Back-end.
-
-Aprimorando meus conhecimentos de diversas formas.:wink:
+Progamador Mobile/Back-end em busca de
+melhorar conhecimentos de diversas formas.:wink:
 
 ### **Atualmente estou estudando** 🌱
 Informática na EPVC(Escola profissional de Vila do Conde),                      
