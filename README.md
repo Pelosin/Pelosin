@@ -1,9 +1,7 @@
 ## Olá, eu sou o Pelosi! 👋
 
-
 ### **Um pouco sobre mim** :boy:
-<img align="right" width="410" height="260"  src="https://static.collectui.com/shots/3252385/job-opening-large">
-
+<img align="right" width="410" height="230"  src="https://static.collectui.com/shots/3252385/job-opening-large">
 
 Jovem estudante no 3º Ano de um curso profissional.
 Progamador Mobile/Back-end em busca de
@@ -14,7 +12,6 @@ Informática na EPVC(Escola profissional de Vila do Conde),
 Java, Spring e Android Studio.
 
 **Não estou trabalhando/estagiando mas estou procurando vagas** :computer:
-
 
 ##
 
