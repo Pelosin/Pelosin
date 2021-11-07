@@ -6,19 +6,15 @@
 ### **Um pouco sobre mim** :boy:
 <img align="right" width="410" height="260"  src="https://static.collectui.com/shots/3252385/job-opening-large">
 
-Jovem estudante de Engenharia Informática
-aspirante a programador front-end/fullstack.
-Todos os dias busco trabalhar e evoluir 
-meus conhecimentos lendo,
-assistindo tutoriais e realizando 
-projetos individuas que você 
-pode verificar mais abaixo. :wink:
+Jovem estudante no 3º Ano de um curso profissional.
+Progamador Mobile/Back-end.
+Aprimorando meus conhecimentos de diversas formas.:wink:
 
 
 
 ### **Atualmente estou estudando** 🌱
-Engenharia Informática no Isep(Instituto Superior de Engenharia do Porto),                      
-Java, Spring e ReactJS.
+Informática na EPVC(Escola profissional de Vila do Conde),                      
+Java, Spring e Android Studio.
 
 **Não estou trabalhando/estagiando mas estou procurando vagas** :computer:
 
