@@ -8,7 +8,8 @@
 ##
 
 Jovem estudante no 3º Ano de um curso profissional.
-Progamador Mobile/Back-end.\n
+Progamador Mobile/Back-end.
+
 Aprimorando meus conhecimentos de diversas formas.:wink:
 
 ### **Atualmente estou estudando** 🌱
