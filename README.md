@@ -1,17 +1,17 @@
-## Olá, eu sou o Pelosi! 👋
+## Hello there, I am Pelosi! 👋
 
-### **Um pouco sobre mim** :boy:
+### **A little bit about me** :boy:
 <img align="right" width="410" height="230"  src="https://static.collectui.com/shots/3252385/job-opening-large">
 
-Jovem estudante no 3º Ano de um curso profissional.
-Progamador Mobile/Back-end em busca de
-melhorar conhecimentos de diversas formas.:wink:
+I am a student in the 3rd year of a professional course.
+Mobile and Back-end developer looking to
+improve knowledge in several ways.:wink:
 
-### **Atualmente estou estudando** 🌱
-Informática na EPVC(Escola profissional de Vila do Conde),                      
+### **Currently studying** 🌱
+In an IT course in EPVC(Escola profissional de Vila do Conde),                      
 Java, Spring e Android Studio.
 
-**Não estou trabalhando/estagiando mas estou procurando vagas** :computer:
+**I am not working/interning but I'm searching for a job/internship** :computer:
 
 ##
 
