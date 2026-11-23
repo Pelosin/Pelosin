@@ -13,7 +13,6 @@ val joao = Developer(
     languages = listOf("Kotlin", "Java"),
     backend = listOf("Spring Boot", "Spring Security", "JWT"),
     ui = listOf("Jetpack", "React"),
-    roots = "EPVC — Vila do Conde, Portugal"
 )
 ```
 
