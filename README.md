@@ -22,7 +22,7 @@ val joao = Developer(
 |---|---|---|
 | 📕 [Pokedex](https://github.com/Pelosin/Pokedex) | Pokédex app — Room offline cache, Hilt DI, recommendation notifications, search & favourites | `Kotlin` `Android` |
 | 🌶️ [PAPrika](https://github.com/Pelosin/PAPrika) | Final-year project (PAP) Android app | `Kotlin` `Android` |
-| 🔐 [Api_Jwt](https://github.com/Pelosin/Api_Jwt) | REST API with JWT authentication | `Spring Boot` `Java` `MySQL` |
+| ☕ [Paprika-API](https://github.com/Pelosin/Paprika-API) | Restaurant kitchen-order backend — JWT auth, WebSocket, MySQL | `Spring Boot` `JWT` `MySQL` |
 | ⚛️ [React_PAPrika](https://github.com/Pelosin/React_PAPrika) | Web frontend for my final-year project | `React` `TailwindCSS` |
 
 ### 🛠️ Tech stack
