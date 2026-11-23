@@ -1,34 +1,41 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94f5f,1:gradient&height=170&section=header&text=Jo%C3%A3o%20Pelosi&fontSize=42&fontAlign=38&desc=Android%20Developer%20%40%20XD%20Software&descAlign=40&descSize=16&animation=fadeIn" alt="João Pelosi — Android Developer @ XD Software"/>
+
 ## Hi there, I'm João "Pelosi" Pelosi 👋
 
-**Android Developer @ XD Software** — I build mobile apps for a living.
+### 👨‍💻 About me
 
-- 📱 **Mobile**: Kotlin, Java, Android Studio, Jetpack
-- ☕ **Backend**: Java, Spring Boot (REST APIs, Spring Security, JWT)
+```kotlin
+val joao = Developer(
+    role = "Android Developer @ XD Software",
+    languages = listOf("Kotlin", "Java"),
+    backend = listOf("Spring Boot", "Spring Security", "JWT"),
+    ui = listOf("Jetpack", "React"),
+    roots = "EPVC — Vila do Conde, Portugal"
+)
+```
 
-### 🚀 Worth checking out
+### 🚀 Featured projects
 
-- **[Pokedex](https://github.com/Pelosin/Pokedex)** — Kotlin Android app: offline caching, Pokémon recommendation notifications, filters and multi-language support
-- **[PAPrika](https://github.com/Pelosin/PAPrika)** — Kotlin Android app from my final-year project
-- **[Api_Jwt](https://github.com/Pelosin/Api_Jwt)** — Spring Boot REST API with JWT authentication (Spring Security, JPA, MySQL)
-- **[React_PAPrika](https://github.com/Pelosin/React_PAPrika)** — React + Tailwind CSS web frontend
+| Project | What it is | Stack |
+|---|---|---|
+| 📕 [Pokedex](https://github.com/Pelosin/Pokedex) | Pokédex app — offline caching, recommendation notifications, filters, multi-language | `Kotlin` `Android` |
+| 🌶️ [PAPrika](https://github.com/Pelosin/PAPrika) | Final-year project (PAP) Android app | `Kotlin` `Android` |
+| 🔐 [Api_Jwt](https://github.com/Pelosin/Api_Jwt) | REST API with JWT authentication | `Spring Boot` `Java` `MySQL` |
+| ⚛️ [React_PAPrika](https://github.com/Pelosin/React_PAPrika) | Web frontend for my final-year project | `React` `TailwindCSS` |
 
-##
+### 🛠️ Tech stack
 
-<div>
-  <a href="https://www.linkedin.com/in/pedro-pelosi-a967aa221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="left">
-  <a href="https://github.com/Pelosin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pelosin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelosin&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-pelosi-a967aa221/"><img src="https://img.shields.io/badge/LinkedIn-Pedro_Pelosi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Pelosin"><img src="https://img.shields.io/github/followers/Pelosin?label=Followers&style=for-the-badge&logo=github" alt="followers"></a>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94f5f,1:gradient&height=120&section=footer" alt="footer"/>
 
 ![Snake animation](https://github.com/Pelosin/Pelosin/blob/output/github-contribution-grid-snake.svg)
