@@ -4,7 +4,6 @@
 
 - 📱 **Mobile**: Kotlin, Java, Android Studio, Jetpack
 - ☕ **Backend**: Java, Spring Boot (REST APIs, Spring Security, JWT)
-- 🎓 Professional IT course @ EPVC (Vila do Conde) — turned pro 🚀
 
 ### 🚀 Worth checking out
 
