@@ -1,6 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94f5f,1:gradient&height=170&section=header&text=Jo%C3%A3o%20Pelosi&fontSize=42&fontAlign=38&desc=Android%20Developer%20%40%20XD%20Software&descAlign=40&descSize=16&animation=fadeIn" alt="João Pelosi — Android Developer @ XD Software"/>
+<p align="center"><img src="header.svg" alt="João Pelosi — Android Developer @ XD Software"/></p>
 
-## Hi there, I'm João "Pelosi" Pelosi 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-pelosi-a967aa221/"><img src="https://img.shields.io/badge/LinkedIn-Pedro_Pelosi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Pelosin"><img src="https://img.shields.io/github/followers/Pelosin?label=Followers&style=for-the-badge&logo=github" alt="Followers"/></a>
+</p>
 
 ### 👨‍💻 About me
 
@@ -29,13 +32,6 @@ val joao = Developer(
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-pelosi-a967aa221/"><img src="https://img.shields.io/badge/LinkedIn-Pedro_Pelosi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Pelosin"><img src="https://img.shields.io/github/followers/Pelosin?label=Followers&style=for-the-badge&logo=github" alt="followers"></a>
-</p>
+<p align="center">Obrigado pela visita! 🚀</p>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94f5f,1:gradient&height=120&section=footer" alt="footer"/>
-
-![Snake animation](https://github.com/Pelosin/Pelosin/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="footer.svg" alt=""/></p>
